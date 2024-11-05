@@ -72,8 +72,3 @@
 
 # print("result", res)
 
-a,b,c = 4
-if a+b == 8:
-    print("hii")
-else:
-    print("no")
